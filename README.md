@@ -1,6 +1,6 @@
 ## Hi, I'm Thiago Lima
 
-* I'm a software developer, I love helping people and sharing knowledge. 
+* I'm a software developer, I love helping people and sharing knowledge.
 * I'm a great open source enthusiast and I really like Linux.
 * I live and work in Brazil.
 * I'm adept at KISS philophy.
@@ -17,25 +17,24 @@
 </div>
 
 ##
-  
+
 ### Tech & Tools Preference
 
 <div style="display: inline_block"><br>
-  
-  ![](https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-  ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![](https://img.shields.io/badge/Dart-666666?style=for-the-badge&logo=dart&logoColor=white)
-  ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-  ![](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-  ![](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)  
-  
+
+  ![](https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white) ![GIT](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)  ![CSHARP](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)  ![NODE](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
+
 </div>
-  
-### Others Tech & Tools I know  
-  
+
+### Others Tech & Tools I know
+
 <div style="display: inline_block"><br>
 
-  ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![](https://img.shields.io/badge/Dart-666666?style=for-the-badge&logo=dart&logoColor=white)
+  ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
   ![](https://img.shields.io/badge/PostgreSQL-0175C2?style=for-the-badge&logo=postgresql&logoColor=white)
   ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -46,18 +45,17 @@
   ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![](https://img.shields.io/badge/Docker-02569B?style=for-the-badge&logo=docker&logoColor=white)
   ![](https://img.shields.io/badge/Google_Firebase-ED8B00?style=for-the-badge&logo=firebase&logoColor=white)
-  ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
  </div>
 
 ##
 
-### Contact me 
-  
+### Contact me
+
 <div style="display: inline_block"><br>
 
 <a href="https://t.me/tglimatech"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/thiago-lima-de-sousa/"><img src="https://img.shields.io/badge/linkedin-000000.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  
+
 </div>
